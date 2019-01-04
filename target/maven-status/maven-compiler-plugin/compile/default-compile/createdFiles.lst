@@ -1,0 +1,4 @@
+com\bindu\jaxrs\model\Person.class
+com\bindu\jaxrs\model\Response.class
+com\bindu\jaxrs\service\PersonService.class
+com\bindu\jaxrs\service\PersonServiceImpl.class
